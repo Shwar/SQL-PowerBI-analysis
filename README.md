@@ -31,8 +31,12 @@ The project includes the `.pbix` Power BI report file, SQL files for awesome cho
      
 4.  Open PowerBI desktop
    + Launch PowerBi desktop application
-   + Click on _Get Data_ tab
-   + Click more and scroll down to _MYSQL_ and click connect
+   + Go to the **Home** tab and click **Get Data** .
+   + Select ODBC or OLE DB and choose your MySQL connection.
+   + Enter the connection details for your MySQL server.
+   + Select the Awesome Chocolates database and load the necessary tables into Power BI.
+   + The data should now be available for visualization in Power BI.
+
 
 5. Create measures
    + Create measures in Report view pane and create neccessary dashboard
@@ -40,6 +44,28 @@ The project includes the `.pbix` Power BI report file, SQL files for awesome cho
 6. Publish
    
    + After being satisfied with your dashboard you can publish it to your service workspace and start sharing out
+     
+## Features
++ Data visualizations for chocolate sales, inventory levels, and customer demographics.
++ Custom filters and DAX for product names and measures management.
++ Real-time connection to the MySQL database for up-to-date reporting.
+
+## Visualizations
+- **Input PID in the parameters**:
+- ![PID = P22](images/ChangePID.png)
+
+- **Query Overview after PID input**:
+-  ![PID = P22](images/PIDOverview.png)
+
+  - **Dashboard overview**:
+  -   ![PID = P22](images/dashboard1.png)
+
+  - **When Product is updated - refresh on the dashboard to update the visuals**:
+  -     ![PID = P22](images/refresh.png)
+    
+  - **When Product is updated and visual refreshed - the view of another Product trend**:
+  -     ![PID = P22](images/dashboard2.png)
+
 
 ## Contributing
 
