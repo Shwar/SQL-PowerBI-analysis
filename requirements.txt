@@ -1,0 +1,4 @@
+1.  Power BI Desktop
+2. MYSQL workbench 8.0 CE
+3. Power BI service account
+4. 
