@@ -1,4 +1,4 @@
-# SQL-PowerBI-analysis with SQL and Dashboard report with PowerBI
+# SQL and PowerBI -analysis with SQL and Dashboard report with PowerBI
 
 
 ## Overview
