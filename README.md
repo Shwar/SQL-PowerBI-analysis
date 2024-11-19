@@ -52,7 +52,7 @@ The project includes the `.pbix` Power BI report file, SQL files for awesome cho
 
 ## Visualizations
 - **Input PID in the parameters**:
-- ![PID = P22](images/ChangePID.png)
+- ![PID = P22]([images/ChangePID.png](https://github.com/Shwar/SQL-PowerBI-analysis/blob/main/images/ChangePID.PNG))
 
 - **Query Overview after PID input**:
 -  ![PID = P22](images/PIDOverview.png)
