@@ -55,16 +55,16 @@ The project includes the `.pbix` Power BI report file, SQL files for awesome cho
   - ![PID = P22](images/ChangePID.PNG)
 
 - **Query Overview after PID input**:
-  - ![PID Overview](images/PIDOverview.png)
+  - ![PID Overview](images/PIDOverview.PNG)
 
 - **Dashboard overview**:
-  - ![Dashboard Overview](images/dashboard1.png)
+  - ![Dashboard Overview](images/dashboard1.PNG)
 
 - **When Product is updated - refresh on the dashboard to update the visuals**:
-  - ![Refresh Visuals](images/refresh.png)
+  - ![Refresh Visuals](images/refresh.PNG)
 
 - **When Product is updated and visual refreshed - the view of another Product trend**:
-  - ![Updated Product Trend](images/dashboard2.png)
+  - ![Updated Product Trend](images/dashboard2.PNG)
 
 
 ## Contributing
