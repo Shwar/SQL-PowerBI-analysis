@@ -52,19 +52,19 @@ The project includes the `.pbix` Power BI report file, SQL files for awesome cho
 
 ## Visualizations
 - **Input PID in the parameters**:
-- ![PID = P22]([images/ChangePID.png](https://github.com/Shwar/SQL-PowerBI-analysis/blob/main/images/ChangePID.PNG))
+  - ![PID = P22](images/ChangePID.PNG)
 
 - **Query Overview after PID input**:
--  ![PID = P22](images/PIDOverview.png)
+  - ![PID Overview](images/PIDOverview.png)
 
-  - **Dashboard overview**:
-  -   ![PID = P22](images/dashboard1.png)
+- **Dashboard overview**:
+  - ![Dashboard Overview](images/dashboard1.png)
 
-  - **When Product is updated - refresh on the dashboard to update the visuals**:
-  -     ![PID = P22](images/refresh.png)
-    
-  - **When Product is updated and visual refreshed - the view of another Product trend**:
-  -     ![PID = P22](images/dashboard2.png)
+- **When Product is updated - refresh on the dashboard to update the visuals**:
+  - ![Refresh Visuals](images/refresh.png)
+
+- **When Product is updated and visual refreshed - the view of another Product trend**:
+  - ![Updated Product Trend](images/dashboard2.png)
 
 
 ## Contributing
